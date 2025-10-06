@@ -11,4 +11,4 @@ Output
 ## Usage
 Run:
 ```bash
-bash simple-interest.sh
+bash simple-interest.sh 
